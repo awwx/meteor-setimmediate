@@ -1,0 +1,9 @@
+{
+  "name": "setimmediate",
+  "description": "setImmediate polyfill",
+  "homepage": "https://github.com/awwx/meteor-setimmediate#readme",
+  "author": "Andrew Wilcox",
+  "version": "1.0.1r0",
+  "git": "https://github.com/awwx/meteor-setimmediate.git"
+}
+
